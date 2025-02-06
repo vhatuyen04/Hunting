@@ -1,0 +1,5 @@
+- This is a project from the course Web Programming. 
+- Hunting game: Like description in the given Word file.
+- Rule: Surround the blue button in all 4 directions (can use walls) in 4*n-1 steps (n is the size of the board).
+- User uses keyboard to choose a specific red button from four red buttons, then enters to confirm. After that, use the keyboard again to move that button.
+- For the blue button, user just use the keyboard to move.
